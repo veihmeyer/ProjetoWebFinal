@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ProjetoWebFinal">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/agenda-contato/agenda-contato/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/agenda-contato/src/main/java"/>
+        <property name="context-root" value="ProjetoWebFinal"/>
+        <property name="java-output-path" value="/ProjetoWebFinal/agenda-contato/target/classes"/>
+    </wb-module>
+</project-modules>
